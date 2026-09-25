@@ -1,0 +1,12 @@
+{
+  "name": "panupat-top-skills",
+  "owner": { "name": "Panupat Top" },
+  "description": "Personal collection of agent skills",
+  "plugins": [
+    {
+      "name": "panupat-skills",
+      "source": "./",
+      "description": "Personal collection of agent skills"
+    }
+  ]
+}
